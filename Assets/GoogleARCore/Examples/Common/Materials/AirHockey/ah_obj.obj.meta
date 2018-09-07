@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: b116f1672817c7f46b05c6ece33c3a05
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: objnurbsT0
+    100004: objnurbsT1
+    100006: objnurbsT2
+    100008: objnurbsTo
+    100010: objpCube1
+    100012: objpCube10
+    100014: objpCube17
+    100016: objpCube4
+    100018: objpolySu0
+    100020: objpolySu1
+    100022: objpolySur
+    100024: objpPlane1
+    100026: objrevolv0
+    100028: objrevolv1
+    100030: objrevolv2
+    100032: objrevolve
+    400000: //RootNode
+    400002: objnurbsT0
+    400004: objnurbsT1
+    400006: objnurbsT2
+    400008: objnurbsTo
+    400010: objpCube1
+    400012: objpCube10
+    400014: objpCube17
+    400016: objpCube4
+    400018: objpolySu0
+    400020: objpolySu1
+    400022: objpolySur
+    400024: objpPlane1
+    400026: objrevolv0
+    400028: objrevolv1
+    400030: objrevolv2
+    400032: objrevolve
+    2100000: 13___Default
+    2100002: phongE1SG
+    2100004: blinn4SG
+    2100006: phong2SG
+    2100008: lambert2SG
+    2300000: objnurbsT0
+    2300002: objnurbsT1
+    2300004: objnurbsT2
+    2300006: objnurbsTo
+    2300008: objpCube1
+    2300010: objpCube10
+    2300012: objpCube17
+    2300014: objpCube4
+    2300016: objpolySu0
+    2300018: objpolySu1
+    2300020: objpolySur
+    2300022: objpPlane1
+    2300024: objrevolv0
+    2300026: objrevolv1
+    2300028: objrevolv2
+    2300030: objrevolve
+    3300000: objnurbsT0
+    3300002: objnurbsT1
+    3300004: objnurbsT2
+    3300006: objnurbsTo
+    3300008: objpCube1
+    3300010: objpCube10
+    3300012: objpCube17
+    3300014: objpCube4
+    3300016: objpolySu0
+    3300018: objpolySu1
+    3300020: objpolySur
+    3300022: objpPlane1
+    3300024: objrevolv0
+    3300026: objrevolv1
+    3300028: objrevolv2
+    3300030: objrevolve
+    4300000: objnurbsT0
+    4300002: objnurbsT1
+    4300004: objnurbsT2
+    4300006: objnurbsTo
+    4300008: objpCube1
+    4300010: objpCube10
+    4300012: objpCube17
+    4300014: objpCube4
+    4300016: objpolySu0
+    4300018: objpolySu1
+    4300020: objpolySur
+    4300022: objpPlane1
+    4300024: objrevolv0
+    4300026: objrevolv1
+    4300028: objrevolv2
+    4300030: objrevolve
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
